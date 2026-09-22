@@ -1,7 +1,7 @@
-### Olá, meu nome é Arthur de Sousa, tenho 19 anos, sou estudante de Ciência da Computação no UniCeub. Sou formado no ensino médio, tenho inglês intermediário e tive experiência com vendas e atendimento ao cliente de empresas. Desde sempre tive interesse em tecnologia, entender e aprender a otimizar processos e criar programas sempre foi algo que me chamou atenção, por esse motivo decidi entrar no mundo da Computação. 🖐️
+### Olá, meu nome é Arthur de Sousa, tenho 20 anos, sou estudante de Ciência da Computação no UniCeub. Sou formado no ensino médio, tenho inglês intermediário e tive experiência com vendas e atendimento ao cliente de empresas. Desde sempre tive interesse em tecnologia, entender e aprender a otimizar processos e criar programas sempre foi algo que me chamou atenção, por esse motivo decidi entrar no mundo da Computação. 🖐️
 
 
-### Hello, my name is Arthur de Sousa, I'm 19 years old, I'm a Computer Science student at UniCeub. I recently graduated from high school, have intermediary English and have experience with sales and customer service for companies. I have always been interested in technology, understanding and learning how to optimize processes and create programs has always been something that caught my attention, which is why I decided to enter the world of Computing. 🖐️
+### Hello, my name is Arthur de Sousa, I'm 20 years old, I'm a Computer Science student at UniCeub. I recently graduated from high school, have intermediary English and have experience with sales and customer service for companies. I have always been interested in technology, understanding and learning how to optimize processes and create programs has always been something that caught my attention, which is why I decided to enter the world of Computing. 🖐️
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://arthurr8529@gmail.com)
